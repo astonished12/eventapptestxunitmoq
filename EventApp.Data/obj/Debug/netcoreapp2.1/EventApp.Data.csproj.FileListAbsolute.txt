@@ -1,0 +1,18 @@
+C:\repos\learn-net\learndotnet\EventApp.Data\bin\Debug\netcoreapp2.1\EventApp.Data.deps.json
+C:\repos\learn-net\learndotnet\EventApp.Data\bin\Debug\netcoreapp2.1\EventApp.Data.dll
+C:\repos\learn-net\learndotnet\EventApp.Data\bin\Debug\netcoreapp2.1\EventApp.Data.pdb
+C:\repos\learn-net\learndotnet\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.csprojAssemblyReference.cache
+C:\repos\learn-net\learndotnet\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.csproj.CoreCompileInputs.cache
+C:\repos\learn-net\learndotnet\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.AssemblyInfoInputs.cache
+C:\repos\learn-net\learndotnet\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.AssemblyInfo.cs
+C:\repos\learn-net\learndotnet\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.dll
+C:\repos\learn-net\learndotnet\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.pdb
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Data\bin\Debug\netcoreapp2.1\EventApp.Data.deps.json
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Data\bin\Debug\netcoreapp2.1\EventApp.Data.dll
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Data\bin\Debug\netcoreapp2.1\EventApp.Data.pdb
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.csprojAssemblyReference.cache
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.AssemblyInfoInputs.cache
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.AssemblyInfo.cs
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.dll
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Data\obj\Debug\netcoreapp2.1\EventApp.Data.pdb

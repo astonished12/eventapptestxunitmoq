@@ -1,0 +1,16 @@
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\bin\Debug\netcoreapp2.1\EventApp.Test.deps.json
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\bin\Debug\netcoreapp2.1\EventApp.Test.runtimeconfig.json
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\bin\Debug\netcoreapp2.1\EventApp.Test.runtimeconfig.dev.json
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\bin\Debug\netcoreapp2.1\EventApp.Test.dll
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\bin\Debug\netcoreapp2.1\EventApp.Test.pdb
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\bin\Debug\netcoreapp2.1\EventApp.Data.dll
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\bin\Debug\netcoreapp2.1\EventApp.Services.dll
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\bin\Debug\netcoreapp2.1\EventApp.Services.pdb
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\bin\Debug\netcoreapp2.1\EventApp.Data.pdb
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\obj\Debug\netcoreapp2.1\EventApp.Test.csprojAssemblyReference.cache
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\obj\Debug\netcoreapp2.1\EventApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\obj\Debug\netcoreapp2.1\EventApp.Test.AssemblyInfoInputs.cache
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\obj\Debug\netcoreapp2.1\EventApp.Test.AssemblyInfo.cs
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\obj\Debug\netcoreapp2.1\EventApp.Test.csproj.CopyComplete
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\obj\Debug\netcoreapp2.1\EventApp.Test.dll
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Test\obj\Debug\netcoreapp2.1\EventApp.Test.pdb

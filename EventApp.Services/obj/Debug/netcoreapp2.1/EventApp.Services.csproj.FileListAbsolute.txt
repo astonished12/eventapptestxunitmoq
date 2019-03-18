@@ -1,0 +1,24 @@
+C:\repos\learn-net\learndotnet\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Services.deps.json
+C:\repos\learn-net\learndotnet\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Services.dll
+C:\repos\learn-net\learndotnet\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Services.pdb
+C:\repos\learn-net\learndotnet\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Data.dll
+C:\repos\learn-net\learndotnet\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Data.pdb
+C:\repos\learn-net\learndotnet\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.csprojAssemblyReference.cache
+C:\repos\learn-net\learndotnet\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.csproj.CoreCompileInputs.cache
+C:\repos\learn-net\learndotnet\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.AssemblyInfoInputs.cache
+C:\repos\learn-net\learndotnet\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.AssemblyInfo.cs
+C:\repos\learn-net\learndotnet\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.csproj.CopyComplete
+C:\repos\learn-net\learndotnet\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.dll
+C:\repos\learn-net\learndotnet\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.pdb
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Services.deps.json
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Services.dll
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Services.pdb
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Data.dll
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\bin\Debug\netcoreapp2.1\EventApp.Data.pdb
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.csprojAssemblyReference.cache
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.AssemblyInfoInputs.cache
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.AssemblyInfo.cs
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.csproj.CopyComplete
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.dll
+C:\Users\Dan Cehan\source\repos\TestAngularWithNetCore\EventApp.Services\obj\Debug\netcoreapp2.1\EventApp.Services.pdb
